@@ -1,6 +1,6 @@
 # 📊 E-Ticaret Satış Analizi Projesi
 
-![Dashboard Önizleme](E%20Ticaret%20Satış%20Analizi%20.png)
+![Dashboard Önizleme](E%20ticaret%20satış%20analizi.png)
 
 Bu proje, bir e-ticaret işletmesinin satış verilerini uçtan uca analiz etmek amacıyla geliştirilmiştir. Veri hazırlığı aşamasında **SQL** kullanılmış, görselleştirme ve derinlemesine analiz aşamalarında ise **Power BI** tercih edilmiştir.
 
